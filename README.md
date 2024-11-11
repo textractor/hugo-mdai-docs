@@ -9,3 +9,4 @@ The `archetypes` directory is a sort of template for the front matter of content
 - Hugo Docs: https://gohugo.io/documentation/
 - Hugo Youtube tutorials: https://www.youtube.com/watch?v=qtIqKaDlqXo&list=PLLAZ4kZ9dFpOnyRlyS-liKL5ReHDcj4G3
 - Hugo community: See Hugo docs
+- [hugo-book theme](https://github.com/alex-shpak/hugo-book?tab=readme-ov-file): A simple docs theme for Hugo.
