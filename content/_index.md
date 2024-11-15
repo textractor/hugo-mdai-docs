@@ -22,9 +22,7 @@ Write us at support@mydecisive.ai.
 
 This is alpha software.
 
-### Important Notes
-
-- This release may contain bugs, limitations, and incomplete features. We encourage users to report any issues encountered during testing.
-- The user interface and user experience (UI/UX) may undergo significant improvements in future updates.
+- This documentation and the MDAI software  may contain bugs, limitations, and incomplete features. We encourage users to report any issues encountered during testing.
+- The user interface and user experience (UI/UX) is undergoing significant improvements. Look for major changes in future updates.
 - Features, configurations, and integrations are subject to change based on user feedback and development priorities.
 - Data generated or collected during this alpha phase may not be representative of final production data.
