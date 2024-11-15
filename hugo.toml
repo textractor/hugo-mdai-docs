@@ -18,5 +18,5 @@ theme = "hugo-book" # https://github.com/alex-shpak/hugo-book
   [markup.goldmark]
     [markup.goldmark.renderHooks]
       [markup.goldmark.renderHooks.image]
-        enableDefault = truea  # enable embedded image render hook
+        enableDefault = true  # enable embedded image render hook
 
