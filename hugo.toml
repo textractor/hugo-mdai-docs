@@ -14,3 +14,9 @@ theme = "hugo-book" # https://github.com/alex-shpak/hugo-book
 # theme = 'ananke' this is a basic/default but not really for docs
 # theme = 'docsy' <-- this looks great on paper but very complicated error-prone setup
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderHooks]
+      [markup.goldmark.renderHooks.image]
+        enableDefault = truea  # enable embedded image render hook
+
