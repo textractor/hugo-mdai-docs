@@ -1,5 +1,6 @@
 +++
-title = 'Introduction'
+title = 'Home'
+weight = 1
 +++
 
 # Welcome to the MyDecisive Documentation
