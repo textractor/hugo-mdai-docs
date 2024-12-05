@@ -14,3 +14,4 @@ Hugo's union file system means you override themes via a path from the root dire
 - Hugo community: See Hugo docs
 - [hugo-book theme](https://github.com/alex-shpak/hugo-book?tab=readme-ov-file): A simple docs theme for Hugo. (Not using this theme as seems it's no longer being maintained.)
 - The [Relearn](https://github.com/McShelby/hugo-theme-relearn) theme seems to be a well-maintained and well-documented theme that's relatively simple to use.
+- More info about the Relearn theme at [this site](https://www.tshdmtmr.com/basics/migration/).
