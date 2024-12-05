@@ -1,6 +1,6 @@
 +++
 title = 'Architecture'
-slug = 'architecture'
+url = 'architecture'
 +++
 
 # Architecture Overview
