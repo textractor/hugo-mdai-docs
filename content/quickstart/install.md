@@ -1,5 +1,6 @@
 +++
-title = 'Installation'
+title = 'Install MDAI'
+weight = 20
 +++
 
-# Install the MDAI Software and Dependencies
+Install the MDAI software and required dependencies in one command!

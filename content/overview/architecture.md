@@ -1,20 +1,21 @@
 +++
-title = 'Architecture'
+title = 'Architecture Overview'
+weight = 10
 +++
 
-# Architecture Overview
+This is a high-level overview of the MDAI architecture. For a detailed technical deep-dive, see (add link to ...).
 
 ## 10,000 ft. view
 
 We want to simplify the lives of DevOps teams by providing an on-prem (in your own cloud) solution that can give full control over telemetry pipelines, while maintaining existing use of Observability Platforms and/or tools.
 
-![System & Users](./images/arch-c1.png)
+![System & Users](../arch-c1.png)
 
 ## 1,000 ft. view
 
 Here's a brief diagram for how we are using our preferred technologies to build our infrastructure to help the DevOps community!
 
-![Container Diagram](./images/arch-c2.png)
+![Container Diagram](../arch-c2.png)
 
 ## What super powers the MDAI Cluster?
 
@@ -41,3 +42,4 @@ OpenTelemetry promotes standardization and interoperability by providing consist
 
 ### Scalability and Extensibility
 Prometheus and OTel are designed for scalability and extensibility, making them suitable for monitoring large-scale, distributed systems running on Kubernetes. You can scale your monitoring infrastructure horizontally to handle increased workload and integrate additional observability tools and services as needed.
+

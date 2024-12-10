@@ -1,5 +1,6 @@
 +++
-Title = 'Solutions'
+title = 'Mydecisive Solutions'
+weight = 30
 +++
 
-# MDAI Solutions
+This is the value.

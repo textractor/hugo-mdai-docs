@@ -1,5 +1,0 @@
-+++
-Title = 'Solutions'
-+++
-
-# MDAI Solutions

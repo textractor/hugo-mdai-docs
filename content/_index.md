@@ -1,9 +1,7 @@
 +++
-title = 'Home'
+title = 'Welcome to the MyDecisive Documentation'
 weight = 1
 +++
-
-# Welcome to the MyDecisive Documentation
 
 What's here? ...
 
