@@ -12,7 +12,8 @@ theme = "hugo-theme-relearn" # https://github.com/McShelby/hugo-theme-relearn
   # Theme 'auto' switches between dark and light modes based on browser/os preferences
   # BookTheme = 'dark'
   themeVariant = "relearn-dark" 
-  linkTitle = "Documentation" # Sets text at top of sidebar
+  linkTitle = " " # Sets text at top of sidebar, replace with logo, has space to prevent default behavior
+  landingPageName = '<i class="fa-fw fas fa-home"></i> Documentation' # text with home button
 
 # theme = 'ananke' this is a basic/default but not really for docs
 # theme = 'docsy' <-- this looks great on paper but very complicated error-prone setup
